@@ -26,10 +26,7 @@ benchmark/
 pip3 install numpy matplotlib
 ```
 
-Si tu as l'erreur "externally managed environment" :
-```bash
-pip3 install --break-system-packages numpy matplotlib
-```
+
 
 ## Utilisation
 
